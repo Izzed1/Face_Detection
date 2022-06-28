@@ -9,12 +9,12 @@ Cara Menggunakan Aplikasi Face detection
 3. Kemudian buka file dist. Pastikan terdapat folder lib dan xml.
 4. Buka file Pendeteksi_Wajah format jar ataupun exe.
 5. Akan muncul windows baru. Terdapat dua metode dalam pembacaan, berikut saya jelaskan:
-   a) Menggunakan kamera
+   1) Menggunakan kamera
       1. Klik tombol "Start Cam", kamera akan terbuka.
       2. Secara otomatis kamera akan mendeteksi wajah anda dengan membuat segi empat merah di sekitar wajah anda.
       3. Hasilnya akan tertulis pada pojok kiri bawah "Faces detected 1" sesuai wajah yang terdeteksi.
       4. Untuk menutup kamera, klik tombol "Stop Cam".
-   b) Menggunakan Gambar
+   2) Menggunakan Gambar
       1. Klik tombol "Select image".
       2. Cari dan pilih Gambar yang ingin digunakan.
       3. Gambar akan muncul pada frame.
